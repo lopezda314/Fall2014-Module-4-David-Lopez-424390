@@ -1,0 +1,7 @@
+REGEX#1)
+^.*\bhello\sworld\b.*$
+or hello\sworld (directions unclear)
+REGEX#2)
+\b[\w]*[aeiou]{3}[\w]*\b
+REGEX#3)
+^[A-Z]{2}\d{3}\d?$
